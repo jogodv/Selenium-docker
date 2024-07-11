@@ -1,0 +1,8 @@
+com\godvindockerhub\pages\AbstractPage.class
+com\godvindockerhub\pages\vendorportal\LoginPage.class
+com\godvindockerhub\pages\flightreservation\FlightSearchPage.class
+com\godvindockerhub\pages\flightreservation\FlightSelectionPage.class
+com\godvindockerhub\pages\flightreservation\RegistrationPage.class
+com\godvindockerhub\pages\vendorportal\DashboardPage.class
+com\godvindockerhub\pages\flightreservation\FlightConfirmationPage.class
+com\godvindockerhub\pages\flightreservation\RegistrationConfirmationPage.class

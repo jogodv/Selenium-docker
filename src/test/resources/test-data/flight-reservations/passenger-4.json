@@ -1,0 +1,11 @@
+{
+    "firstName" : "act",
+    "lastName" : "john",
+    "email" : "act@gmail",
+    "password" : "1234678",
+    "street" : "123789 street",
+    "city" : "ohio",
+    "zip" : "6000",
+    "passengersCount" : "4",
+    "expectedPrice" : "$2338 USD"
+}

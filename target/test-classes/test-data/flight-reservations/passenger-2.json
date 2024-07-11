@@ -1,0 +1,11 @@
+{
+    "firstName" : "luke",
+    "lastName" : "john",
+    "email" : "luke@gmail",
+    "password" : "12345",
+    "street" : "12345 street",
+    "city" : "miami",
+    "zip" : "4000",
+    "passengersCount" : "2",
+    "expectedPrice" : "$1169 USD"
+}

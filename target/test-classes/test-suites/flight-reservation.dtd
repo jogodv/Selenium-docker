@@ -1,0 +1,9 @@
+<!ELEMENT suite (test)>
+<!ATTLIST suite name NMTOKEN #REQUIRED>
+<!ELEMENT test (parameter+,class)>
+<!ATTLIST test name NMTOKEN #REQUIRED>
+<!ELEMENT parameter EMPTY>
+<!ATTLIST parameter name NMTOKEN #REQUIRED>
+<!ATTLIST parameter value CDATA #REQUIRED>
+<!ELEMENT class EMPTY>
+<!ATTLIST class name NMTOKEN #REQUIRED>

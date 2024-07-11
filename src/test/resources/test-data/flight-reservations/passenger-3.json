@@ -1,0 +1,11 @@
+{
+    "firstName" : "mat",
+    "lastName" : "john",
+    "email" : "mat@gmail",
+    "password" : "123456",
+    "street" : "12356 street",
+    "city" : "new ork",
+    "zip" : "5000",
+    "passengersCount" : "3",
+    "expectedPrice" : "$1753 USD"
+}
